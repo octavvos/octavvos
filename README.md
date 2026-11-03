@@ -5,6 +5,7 @@ Farg'onalik **backend dasturchi**man. Python va Django'da biznes uchun CRM, ta'l
 - 🛠 Hozir ishlayapman: **ShoeFlow** — oyoq kiyim ishlab chiqaruvchi firma uchun CRM
 - 🔬 Qiziqishim: tizimlar ichidan qanday ishlashi — shuning uchun Git'ni noldan yozdim
 - 📍 Farg'ona, O'zbekiston
+- 🌐 Portfolio: **[octavvos.github.io](https://octavvos.github.io)**
 
 ### Texnologiyalar
 

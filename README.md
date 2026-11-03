@@ -33,3 +33,8 @@ Farg'onalik **backend dasturchi**man. Python va Django'da biznes uchun CRM, ta'l
 | [**TezYozish**](https://github.com/octavvos/TezYozish) | Tez yozishni o'rgatuvchi sayt: mashqlar, o'yin-darslar, real vaqtdagi poygalar | Django, JavaScript |
 | [**BYD-salon**](https://github.com/octavvos/BYD-salon) | Avtosalon sayti: katalog, kredit kalkulyatori, test-drayv arizalari | Django, DRF |
 | [**yuklaydi-bot**](https://github.com/octavvos/yuklaydi-bot) | YouTube va Instagram'dan video/MP3 yuklab beruvchi Telegram bot | aiogram 3, yt-dlp |
+
+### Aloqa
+
+[![Telegram](https://img.shields.io/badge/Telegram-@AnswerTimestamp-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AnswerTimestamp)
+[![Email](https://img.shields.io/badge/Email-anvarjonshell@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anvarjonshell@gmail.com)
